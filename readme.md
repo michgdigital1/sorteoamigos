@@ -35,14 +35,7 @@ El proyecto se encuentra **completado** y listo para su uso.
 
 ---
 
-## Acceso al Proyecto
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/michgdigital1/proyecto-sorteo-amigos.git
-   ```
-2. Abre el archivo `index.html` en tu navegador.
 
----
 
 ## Tecnologias Utilizadas
 - **HTML5** para la estructura de la pagina.
