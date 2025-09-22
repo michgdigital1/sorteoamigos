@@ -21,7 +21,7 @@ Este proyecto permite ingresar una lista de amigos, mostrar los nombres en una l
 ---
 
 ## Estado del Proyecto
-?**Version actual:** 1.0  
+**Version actual:** 1.0  
  **Ultima actualizacion:** September 2025  
 El proyecto se encuentra **completado** y listo para su uso.
 
